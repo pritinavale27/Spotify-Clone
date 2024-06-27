@@ -13,7 +13,7 @@ let songs = [
     {songName: "O Sajni Re", filePath: "./songs/O Sajni Re (RaagJatt.com).mp3", coverPath:"cover/cover.jpg"},
     {songName: "O Mahi O Mahi", filePath:"songs/O Mahi O Mahi(PagalWorld.com.sb).mp3", coverPath:"cover/cover2.jpg"},
     {songName: "Dekha Tenu Pehli Pehli Baar Ve", filePath:"songs/Dekha Tenu Pehli Pehli Baar Ve(PagalWorld.com.sb).mp3", coverPath:"cover/cover3.jpg"},
-    {songName: "Chor", filePath:"songs/Chor(PagalWorld.com.sb).mp3", coverPath:"cover/cover4.jpg"},
+    {songName: "Chor", filePath:"songs/_Chor(PagalWorld.com.sb).mp3", coverPath:"cover/cover4.jpg"},
     {songName: "Gulabi Sadi", filePath:"songs/Gulabi Sadi Ani Lali_192(PagalWorld.com.sb).mp3", coverPath:"cover/cover5.jpg"},
 ];  
 
